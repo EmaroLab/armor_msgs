@@ -4,6 +4,7 @@ project(armor_msgs)
 ## Find catkin macros and libraries
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
+## Hello from the sofar class!
 find_package(catkin REQUIRED COMPONENTS
   message_generation
   std_msgs
